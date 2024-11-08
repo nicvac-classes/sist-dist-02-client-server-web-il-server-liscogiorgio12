@@ -1,0 +1,13 @@
+{
+  "name": "sist-dist-02-client-server-web-il-server-liscogiorgio12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nicvac-classes/sist-dist-02-client-server-web-il-server-liscogiorgio12",
+  "author": "liscogiorgio12 <giorgio.lisco@marconibari.edu.it>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}
